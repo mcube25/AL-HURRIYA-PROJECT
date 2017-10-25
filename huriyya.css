@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://cdn.pixabay.com/photo/2013/07/13/10/32/city-157460_960_720.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTkRurQfj2NnKqnxSgBH9zgdsgEX2Eovnl3OLKpvR0MhlvkC7rzA);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -19,6 +19,12 @@ h2 {
     margin-bottom: 8px;
     margin-top: 4px;
     padding-left: 15px;
+}
+
+.img-content {
+    height: 23px;
+    width: 23px;
+    background-color: lightblue
 }
 
 .nav-links {
@@ -60,7 +66,8 @@ main {
 }
 
 div.col-md-6 {
-    background-image: url(https://cdn.pixabay.com/photo/2017/06/09/13/23/ramadan-2386846_960_720.jpg) padding-left: 10px;
+    background-image: url();
+    padding-left: 10px;
 }
 
 h3 {
@@ -83,11 +90,11 @@ img.img-fluid {
 }
 
 div.col-md-3 {
-    background-image: url(https://cdn.pixabay.com/photo/2017/06/09/13/23/ramadan-2386846_960_720.jpg);
+    background-image: url();
     padding-left: 10px;
 }
 
 div.col-md-4 {
-    background-image: url(https://cdn.pixabay.com/photo/2017/06/09/13/23/ramadan-2386846_960_720.jpg);
+    background-image: url();
     padding-left: 10px;
 }
